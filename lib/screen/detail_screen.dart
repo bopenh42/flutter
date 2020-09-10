@@ -24,7 +24,7 @@ class DetailScreen extends StatelessWidget {
             //         BoxDecoration(border: Border.all(color: Colors.blueGrey)),
             //     width: 300,
             //     child: CircleAvatar(
-            //       child: Image.asset("images/magic-book.png"),
+            //       child: Image.asset("images/magic-book.png")
             //     )),
 
             children: [
